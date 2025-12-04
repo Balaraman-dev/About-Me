@@ -23,6 +23,7 @@ A modern, interactive developer portfolio showcasing skills, projects, experienc
 Built with MERN stack principles, the portfolio focuses on clean UI, responsiveness, and a professional developer identity.
 
 🔧 Tech: React.js, Tailwind CSS
+
 📌 GitHub: https://github.com/Balaraman-dev/Personal-Portfolio
 
 🌐 Live: Updating soon...

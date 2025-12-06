@@ -108,6 +108,9 @@ Short, useful, well-structured applications demonstrating rapid development skil
 - Weather Predictor - Simple weather forecasting app using live API
 
     https://github.com/Balaraman-dev/Weather_predictor
+
+  
+    Deployment Link:https://globalweatherpredictor.netlify.app/
 - Currency Converter - Converts currency values in real time
 
     https://github.com/Balaraman-dev/Currency_Convertor

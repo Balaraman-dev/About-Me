@@ -114,6 +114,8 @@ Short, useful, well-structured applications demonstrating rapid development skil
 - Calendar App - Clean and interactive calendar UI
 
     https://github.com/Balaraman-dev/Calendar
+
+    Deployment Link https://tenyearcalendar.netlify.app/
 - Password Generator - Secure random password generation tool
 
     https://github.com/Balaraman-dev/Password_generator

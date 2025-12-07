@@ -26,7 +26,7 @@ Built with MERN stack principles, the portfolio focuses on clean UI, responsiven
 - **🔧 Tech:** React.js, Tailwind CSS
 - **📌 GitHub:** https://github.com/Balaraman-dev/Personal-Portfolio
 
-- **🌐 Live:** Updating soon...
+- **🌐 Live:** https://balaraman.netlify.app/
 
 ### **🛒 2. Luxera – E-Commerce Shopping Platform**
 
